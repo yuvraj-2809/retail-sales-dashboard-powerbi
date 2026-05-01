@@ -56,11 +56,11 @@ The goal of this project is to analyze retail sales performance and identify key
 
 ### Sales Overview
 
-![Sales Overview](./images/page1.png)
+![Sales Overview](SalesOverview.png)
 
 ### Profitability Analysis
 
-![Profitability Analysis](./images/page2.png)
+![Profitability Analysis](ProbabilityAnalysis.png)
 
 ---
 
